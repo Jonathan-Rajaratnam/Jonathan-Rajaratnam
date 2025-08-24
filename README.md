@@ -1,11 +1,11 @@
 # Hi 👋, I'm Jonathan Rajaratnam
 <h3 align="center">A passionate full-stack developer from Colombo, Sri Lanka</h3>
 
--   🌱 I’m currently learning **React, Node.js, Next.js**
+-   🌱 I’m currently learning **React, Node.js and Vue.js**
 
 -   📫 How to reach me **joeraj08@gmail.com**
 
--   ⚡ Fun fact **I love playing video games**
+-   ⚡ Fun fact **I love playing video games and travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
