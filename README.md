@@ -35,12 +35,9 @@ Software developer focused on full-stack web apps, cloud-native systems, and pra
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,java,swift,dart,php,flutter,docker,kubernetes,aws,gcp,mongodb,mysql,git,linux,bash,html,css,tailwind,bootstrap,vercel,postman,vscode" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Java, Swift, Dart, PHP, Flutter, Docker, Kubernetes, AWS, Google Cloud, MongoDB, MySQL, Git, Linux, Bash, HTML, CSS, Tailwind CSS, Bootstrap, Vercel, Postman, and VS Code" />
-  <a href="https://spark.apache.org/" title="Apache Spark">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="25" height="25" />
-  </a>
-  <a href="https://helm.sh/" title="Helm">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="25" height="25" />
-  </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="48" height="48" />
 </p>
 
 ## GitHub Activity
