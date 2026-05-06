@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate fullstack developer from Colombo, Sri Lanka</h3>
+# Hi, I'm Jonathan Rajaratnam
 
--   🌱 I’m currently learning **React, Node.js, Next.js**
+Software developer focused on full-stack web apps, cloud-native systems, and practical automation.
 
--   📫 How to reach me **joeraj08@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-jonathan--rajaratnam.vercel.app-0A66C2?style=for-the-badge)](https://jonathan-rajaratnam.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Rajaratnam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/jonathan-rajaratnam-52323a218)
+[![Email](https://img.shields.io/badge/Email-joeraj08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeraj08@gmail.com)
 
--   ⚡ Fun fact **I love playing video games**
+## About
 
-<h3 align="left">Connect with me:</h3>
+- Building with TypeScript, React, Next.js, Node.js, Python, and Swift.
+- Recently working on Apache Spark autoscaling, Kubernetes infrastructure, and a TypeScript portfolio.
+- Interested in cloud infrastructure, backend systems, developer tooling, and clean user experiences.
+- Based in the UK, originally from Colombo, Sri Lanka.
+
+## Current Stack
+
+- **Languages:** TypeScript, JavaScript, Python, Java, Swift, Dart, PHP, Bash, SQL, HTML, CSS
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, Flutter
+- **Backend:** Node.js, Express
+- **Cloud and DevOps:** Docker, Kubernetes, Amazon EKS, Helm, Google Cloud, Git, Linux
+- **Data and Databases:** Apache Spark, MongoDB, MySQL
+- **Tools:** Postman, VS Code, GitHub, Vercel
+
+## Featured Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [spark-autoscaling-k8s](https://github.com/Jonathan-Rajaratnam/spark-autoscaling-k8s) | Experiments with Apache Spark autoscaling on Kubernetes. | Python, Kubernetes, Apache Spark |
+| [portfolio](https://github.com/Jonathan-Rajaratnam/portfolio) | Personal portfolio site deployed on Vercel. | TypeScript |
+| [flower-calendar](https://github.com/Jonathan-Rajaratnam/flower-calendar) | Calendar project deployed on Vercel. | JavaScript |
+| [project-management](https://github.com/Jonathan-Rajaratnam/project-management) | Project management work and experiments. | Python |
+
+## Tech I Use
+
 <p align="left">
-<a href="https://twitter.com/itzmejohnny8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmejohnny8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonathan rajaratnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan rajaratnam" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,java,swift,dart,php,flutter,docker,kubernetes,aws,gcp,mongodb,mysql,git,linux,bash,html,css,tailwind,bootstrap,vercel,postman,vscode" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Java, Swift, Dart, PHP, Flutter, Docker, Kubernetes, AWS, Google Cloud, MongoDB, MySQL, Git, Linux, Bash, HTML, CSS, Tailwind CSS, Bootstrap, Vercel, Postman, and VS Code" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://spark.apache.org/" title="Apache Spark">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="42" height="42" />
+  </a>
+  <a href="https://helm.sh/" title="Helm">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="42" height="42" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-rajaratnam&show_icons=true&theme=dracula&text_color=d6d6d6&locale=en" alt="jonathan-rajaratnam" /></p>
+## GitHub Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-rajaratnam&theme=dark" alt="jonathan-rajaratnam" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-rajaratnam&show_icons=true&theme=dracula&text_color=ebebeb&locale=en&layout=compact" alt="jonathan-rajaratnam" /></p>
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-Rajaratnam&theme=dracula)
+![Languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonathan-Rajaratnam&theme=dracula)
+![GitHub streak](https://streak-stats.demolab.com?user=Jonathan-Rajaratnam&theme=dracula&hide_border=true)
