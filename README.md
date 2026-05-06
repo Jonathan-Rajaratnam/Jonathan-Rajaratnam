@@ -34,10 +34,36 @@ Software developer focused on full-stack web apps, cloud-native systems, and pra
 ## Tech I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,java,swift,dart,php,flutter,docker,kubernetes,aws,gcp,mongodb,mysql,git,linux,bash,html,css,tailwind,bootstrap,vercel,postman,vscode" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Java, Swift, Dart, PHP, Flutter, Docker, Kubernetes, AWS, Google Cloud, MongoDB, MySQL, Git, Linux, Bash, HTML, CSS, Tailwind CSS, Bootstrap, Vercel, Postman, and VS Code" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="48" height="48" />
 </p>
 
 ## GitHub Activity
